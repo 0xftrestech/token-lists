@@ -8,6 +8,30 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
+    "name": "Ghost Finance on xDai",
+    "address": "0x9913ed5c459a5f67e22366df5bbf00cd33154214",
+    "symbol": "GHO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://avatars.githubusercontent.com/u/79007263?s=200&v=4"
+  },
+  {
+    "name": "0xF3.tech on xDai",
+    "address": "0xb7d918d7631fcdd0954205e3a6b205a10a31a085",
+    "symbol": "TECH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://avatars.githubusercontent.com/u/71916776?v=4"
+  },
+  {
+    "name": "Gambiarra Finance on xDai",
+    "address": "0x9e255fe1176dce5ff5bca87c0e97ede31c40f4d0",
+    "symbol": "GAMB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://avatars.githubusercontent.com/u/71916776?v=4"
+  },
+  {
     "name": "Dai Stablecoin on xDai",
     "address": "0x44fA8E6f47987339850636F88629646662444217",
     "symbol": "DAI",

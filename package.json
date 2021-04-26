@@ -13,10 +13,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1Hive/default-token-list.git"
+    "url": "git+https://github.com/0xftrestech/default-token-list.git"
   },
   "keywords": [
     "uniswap",
+    "0xF3",
     "honeyswap",
     "default",
     "token",
@@ -25,9 +26,9 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/1Hive/default-token-list.git/issues"
+    "url": "https://github.com/0xftrestech/default-token-list.git/issues"
   },
-  "homepage": "https://github.com/1Hive/default-token-list.git#readme",
+  "homepage": "https://github.com/0xftrestech/default-token-list.git#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
